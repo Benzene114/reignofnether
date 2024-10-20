@@ -39,7 +39,15 @@
 
 {
   "//": "Pre-Translating in annotations"
-  "/**/": "I - Buildings and Desc"
-  "#town_center": "城镇中心（主城建筑）"
-  "#town_center_desc": 
+  "/*1*/": "I - Buildings and Desc"
+  "#town_centre": "城镇中心（主城建筑）"
+  "#town_centre_desc": "一座坐落在村庄中心的集市，能够生产村民。\n 同一时间只能拥有一座主城建筑。"
+  "#stockpile": "仓库"
+  "#stockpile_desc": "可以让单位或玩家存放资源的仓库。"
+  "#villager_house": "村民住房"
+  "#villager_house_desc": "一座简单的住房，提供人口补给。"
+  "#wheat_farm": "小麦农场"
+  "#wheat_farm_desc": "一片可以让工人耕作，收获食物的麦田。在此工作的村民会自动消耗木材来种植新的小麦。"
+  "#watchtower": "瞭望塔"
+  "#watchtower_desc": "一座经过加固的塔楼，可以驻扎单位。驻扎于此的远程单位具有额外的射程。 \n 能够驻扎至多 3 个单位。"
 }
