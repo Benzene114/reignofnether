@@ -18,7 +18,7 @@
   "item.reignofnether.ravager_unit_spawn_egg": "生成劫掠兽单位",
   "item.reignofnether.warden_unit_spawn_egg": "生成监守者单位",
   "item.reignofnether.silverfish_unit_spawn_egg": "生成蠹虫单位",
-  "item.reignofnether.grunt_unit_spawn_egg": "生成咕哝者单位",
+  "item.reignofnether.grunt_unit_spawn_egg": "生成猪灵苦工单位",
   "item.reignofnether.brute_unit_spawn_egg": "生成猪灵蛮兵单位",
   "item.reignofnether.headhunter_unit_spawn_egg": "生成猎头者单位",
   "item.reignofnether.hoglin_unit_spawn_egg": "生成疣猪兽单位",
@@ -35,4 +35,11 @@
   "sounds.reignofnether.ally": "盟友",
   "sounds.reignofnether.neutral": "中立",
   "sounds.reignofnether.enemy": "敌对"
+}
+
+{
+  "//": "Pre-Translating in annotations"
+  "/**/": "I - Buildings and Desc"
+  "#town_center": "城镇中心（主城建筑）"
+  "#town_center_desc": 
 }
